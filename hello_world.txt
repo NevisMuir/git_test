@@ -1,1 +1,2 @@
 Added test text
+new line, testing git commit message editor
